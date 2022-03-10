@@ -1,5 +1,7 @@
 # BasisDataLanjutan
 
+Q1_SAMPLE
+
 sqlite> SELECT CategoryName FROM Category ORDER BY CategoryName;
 
 Beverages
@@ -25,7 +27,6 @@ LILA-Supermercado|LILA
 LINO-Delicateses|LINO
 QUICK-Stop|QUICK
 Save-a-lot Markets|Save
-
 
 (Q3_NORTHAMERICAN
 
